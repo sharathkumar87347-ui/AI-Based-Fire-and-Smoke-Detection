@@ -1,0 +1,22 @@
+Python
+
+pycache/
+*.py[cod]
+.venv/
+venv/
+
+Secrets and environment variables
+
+.env
+.streamlit/secrets.toml
+
+Local databases containing user information
+
+fire_users.db
+*.db
+
+Editor and operating system files
+
+.vscode/
+.DS_Store
+Thumbs.db
